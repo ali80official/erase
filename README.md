@@ -1,21 +1,21 @@
 # `@ER-A-SE` Free Company, Meaning Freedom
-> Building The First Repository For The Largest Project in History `[👑ER-A-SE]` That Uses All Services Including Linux, Google, Microsoft, Git, Amazon, Blockchain, Artificial Intelligence, etc. to Provide The BEST Features For All Provide Humans Without Any Discrimination by Programmers on The Planet.
+> 👑Building The First Repository For The Largest Project in History `[ER-A-SE]` That Uses All Services Including Linux, Google, Microsoft, Git, Amazon, Blockchain, Artificial Intelligence, etc. to Provide The BEST Features For All Provide Humans Without Any Discrimination by Programmers on The Planet.
 
 ## 👉🏼 What is `👑ER-A-SE`❔
-## &
+&
 ## 👉🏼 Why     `👑ER-A-SE`❓
 >  Will READY Soon
 
 <!-- PROJECT STATUS -->
-## 👉🏼 PROJECT STATUS ✅
+## 👉🏼 PROJECT STATUS
 > Today, 2020 July 17 & The `ER-A-SE` Company Website Will be Built Before The End of 2020, But it is Not Complete & it is Currently Working to Provide You With Valuable Services. From Now on, at 05:50, We Will START This Great Project. Wait For The Good News.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- GETTING STARTED -->
-##  👉 GETTING STARTED ☑
-### [@ER-A-SE](https://www.er-a-se.com) Exists For Everyone
-#### Let's Get Started Are You READY?
+##  👉 GETTING STARTED
+#### [@ER-A-SE](https://www.er-a-se.com) Exists For Everyone
+##### Let's Get Started Are You READY?
 ##### to Get Started With ER-A-SE & Use Its Services:
   > First of All, You Should See The Tutorials For Using ER-A-SE Program,
   in The Next Step, we Should Emphasize That You Should Get A Lot of Information about ER-A-SE
@@ -40,7 +40,7 @@
 
 
 <!-- COMMAND-LINE INTERFACE -->
-## 👉🏼 COMMAND-LINE INTERFACE ☑
+### 👉🏼 COMMAND-LINE INTERFACE ☑
 ##### Will READY Soon
 
 
