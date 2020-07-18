@@ -104,7 +104,7 @@ Will READY Soon
 
 <!-- AUTHOR -->
 ## 👉🏼 AUTHOR
-```powershell
+```cs
 [All Programmers on The Planet]
 ```
 ##### Specially: Will READY Soon
@@ -145,7 +145,7 @@ Support to This Project.
 <!-- LICENSE -->
 ## 👉🏼 LICENSE
 💜
-```powershell
+```cs
 [Create & Designed by Programmers on The Planet]
 [Copyright © ER-A-SE Corporation. All Rights Reserved]
 ```
