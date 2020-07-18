@@ -126,4 +126,4 @@ A Big Thank You Goes to All The Wonderful People Who Contribute Ideas, Code, Doc
 [Create & Designed by Programmers on The Planet]
 [Copyright © ER-A-SE Corporation. All Rights Reserved]
 ```
-> ER-A-SE [LICENSE](https://www.er-a-se.com/License)  Will READY Soon
+> ER-A-SE [LICENSE](https://www.https://github.com/ali80official/ERASE/blob/master/LICENSE)  Will READY Soon
