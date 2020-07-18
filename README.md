@@ -10,15 +10,25 @@
 ## 👉🏼 PROJECT STATUS ✅
 > Today, 2020 July 17 & The `ER-A-SE` Company Website Will be Built Before The End of 2020, But it is Not Complete & it is Currently Working to Provide You With Valuable Services. From Now on, at 05:50, We Will START This Great Project. Wait For The Good News.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <!-- GETTING STARTED -->
 ##  👉 GETTING STARTED ☑
 ### [@ER-A-SE](https://www.er-a-se.com) Exists For Everyone
-###### Let's Get Started Are You READY?
-##### Will READY Soon
-
-
-
+#### Let's Get Started Are You READY?
+> to Get Started With ER-A-SE & Use Its Services:
+  * > First of All, You Should See The Tutorials For Using ER-A-SE Program,
+  in The Next Step, we Should Emphasize That You Should Get A Lot of Information about ER-A-SE
+  & Understand What is The Purpose of Its Creation❓
+  * > You Should Also Know That When You Signup in The ER-A-SE Program,
+  You Will be Asked Questions.
+  Because in The Near Future You Will See it Will be The Most Used Program in Your Life
+  & You Are Constantly Using it During The Day, so be Careful.
+##### A Good Future Awaits You, be A Good Person & Wait, You Will See Soon.
+### Finally, we Suggest Two Ways to Get The Program:
+    * > Download [@ER-A-SE](https://www.er-a-se.com) Through The Website
+##### or Through The TERMINAL
+    * > Will READY Soon
 
 <!-- DOCS -->
 ## 👉🏼 DOCUMENTATION 📘
@@ -109,7 +119,6 @@
 
 
 
-
 <!-- CONTRIBUTORS -->
 ## 👉🏼 CONTRIBUTORS 💜
 ```
@@ -117,14 +126,12 @@ A Big Thank You Goes to All The Wonderful People Who Contribute Ideas, Code, Doc
 Support to This Project.
 ```
 
-
 <!-- MORE INFORMATION -->
 > For More Information:
   * > First of All, Visit The [👑ER-A-SE](https://www.er-a-se.com) Website, Part Video Tutorials
   * > Then go to The DOCUMENTATION
   * > After Reading All These Sections, You Can Also Read The ERASE LICENSE Section to Increase The Information
   * > & in The Last Step, You Can Refer to The FAQ & FEEDBACK Section & Use The Opinions, Experiences of Others & The Questions They Ask.
-
 
 <!-- LICENSE -->
 ## 👉🏼 LICENSE ✅
