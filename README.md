@@ -1,9 +1,9 @@
-# `@ER-A-SE` Free Company, Meaning Freedom
+# `@ER-A-SE` Free Company, Meaning FREEDOM
 > 👑Building The First Repository For The Largest Project in History `ER-A-SE` That Uses All Services Including Linux, Google, Microsoft, Git, Amazon, Blockchain, Artificial Intelligence, etc. to Provide The BEST Features For All Provide Humans Without Any Discrimination by Programmers on The Planet.
 
-## 👉🏼 What is `👑ER-A-SE`❔
+## 👉🏼 What is `ER-A-SE`❔
 &
-## 👉🏼 Why     `👑ER-A-SE`❓
+## 👉🏼 Why     `ER-A-SE`❓
 >  Will READY Soon
 
 <!-- PROJECT STATUS -->
@@ -56,9 +56,9 @@ Will READY Soon
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- LANGUAGES -->
-## 👉🏼 LANGUAGES ✅
+## 👉🏼 LANGUAGES
 ##### The Language Used Will be English ONLY, & if Needed, You Can Use This Option to Translate Any Word Into Your Native Language by Selecting it, & it is Possible to Translate Audio or video Audio Into Native Language as Well. Translate Yourself.
-### The REASON:
+### The REASONS:
 #### Why All The Complexity? Because
 #### 1. There is Always A Single & Common Language Which is English 💜.
 #### 2. There is Always Something Basic & You Change it Temporarily to Better Understand it.
@@ -114,7 +114,7 @@ Will READY Soon
 
 <!-- DOWNLOADS -->
 ## 👉🏼 DOWNLOADS
-> Use Other [👑ER-A-SE](https://www.er-a-se.com) Sub-programs by Downloading [ER-A-SE](https://www.er-a-se.com), The Website Link & The Path of Other Projects Are Also HERE
+> Use Other [ER-A-SE](https://www.er-a-se.com) Sub-programs by Downloading [ER-A-SE](https://www.er-a-se.com), The Website Link & The Path of Other Projects Are Also HERE
 * [AOS](https://www.aos.com)  Will READY Soon
 * [Micronium](https://www.micronium.com)  Will READY Soon
 ```
@@ -149,5 +149,6 @@ Support to This Project.
 [Create & Designed by Programmers on The Planet]
 [Copyright © ER-A-SE Corporation. All Rights Reserved]
 ```
+👑
 > ER-A-SE [LICENSE](https://www.github.com/ali80official/ERASE/blob/master/LICENSE)
 ##### Will READY Soon
