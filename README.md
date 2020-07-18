@@ -1,8 +1,10 @@
 # `@ER-A-SE` Free Company, Meaning Freedom
-> Building The First Repository For The Largest Project in History `[ER-A-SE]` That Uses All Services Including Linux, Google, Microsoft, Git, Amazon, Blockchain, Artificial Intelligence, etc. to Provide The BEST Features For All Provide Humans Without Any Discrimination by Programmers on The Planet.
+> Building The First Repository For The Largest Project in History `[👑ER-A-SE]` That Uses All Services Including Linux, Google, Microsoft, Git, Amazon, Blockchain, Artificial Intelligence, etc. to Provide The BEST Features For All Provide Humans Without Any Discrimination by Programmers on The Planet.
 
-## 👉🏼 What is `ER-A-SE`❔ & Why `ER-A-SE`❓
-> Will READY Soon
+## 👉🏼 What is `👑ER-A-SE`❔
+## &
+## 👉🏼 Why     `👑ER-A-SE`❓
+>  Will READY Soon
 
 <!-- PROJECT STATUS -->
 ## 👉🏼 PROJECT STATUS ✅
@@ -19,8 +21,8 @@
 
 
 <!-- DOCS -->
-## 👉🏼 DOCUMENTATION :blue_book:
-##### Will READY Soon
+## 👉🏼 DOCUMENTATION 📘
+##### 🧾 Will READY Soon
 
 
 
@@ -43,11 +45,11 @@
 ##### The Language Used Will be English ONLY, & if Needed, You Can Use This Option to Translate Any Word Into Your Native Language by Selecting it, & it is Possible to Translate Audio or video Audio Into Native Language as Well. Translate Yourself.
 ### The REASON:
 #### Why All The Complexity? Because
-#### 1. There is Always A Single & Common Language Which is English.
+#### 1. There is Always A Single & Common Language Which is English 💜.
 #### 2. There is Always Something Basic & You Change it Temporarily to Better Understand it.
 #### 3. Science & Experience Work Great Together, & Experience Has Shown That Changing The Entire Program Into Each Person's Native Language Creates Problems.
 #### The Following Figure Clearly Identifies The Problem:
-#### Image Will READY Soon 
+#### Image Will READY Soon
 #### 4. Will READY Soon
 
 
@@ -64,7 +66,7 @@
 
 
 <!-- SUPPORT -->
-## 👉🏼 SUPPORT :question:
+## 👉🏼 SUPPORT ❔
 ##### Will READY Soon
 
 
@@ -74,7 +76,15 @@
 
 <!-- FAQ -->
 ## 👉🏼 FAQ ☑
-##### Will READY Soon
+##### 📌Will READY Soon
+
+
+
+
+<!-- FEEDBACK -->
+## 👉🏼 FEEDBACK ✔
+##### 📌Will READY Soon
+
 
 
 
@@ -92,7 +102,7 @@
 
 <!-- DOWNLOADS -->
 ## 👉🏼 DOWNLOADS ✔
-> Use Other [ER-A-SE](https://www.er-a-se.com) Sub-programs by Downloading [ER-A-SE](https://www.er-a-se.com), The Website Link & The Path of Other Projects Are Also HERE
+> Use Other [👑ER-A-SE](https://www.er-a-se.com) Sub-programs by Downloading [ER-A-SE](https://www.er-a-se.com), The Website Link & The Path of Other Projects Are Also HERE
 * [AOS](https://www.aos.com)  Will READY Soon
 * [Micronium](https://www.micronium.com)  Will READY Soon
 
@@ -100,25 +110,20 @@
 
 
 
-<!-- FEEDBACK -->
-## 👉🏼 FEEDBACK ✔
-##### Will READY Soon
-
-
-
-
-
 <!-- CONTRIBUTORS -->
-## 👉🏼 CONTRIBUTORS :heart:
+## 👉🏼 CONTRIBUTORS 💜
 ```
 A Big Thank You Goes to All The Wonderful People Who Contribute Ideas, Code, Docs &
 Support to This Project.
 ```
 
 
-
-
-
+<!-- MORE INFORMATION -->
+> For More Information:
+  * > First of All, Visit The [👑ER-A-SE](https://www.er-a-se.com) Website, Part Video Tutorials
+  * > Then go to The DOCUMENTATION
+  * > After Reading All These Sections, You Can Also Read The ERASE LICENSE Section to Increase The Information
+  * > & in The Last Step, You Can Refer to The FAQ & FEEDBACK Section & Use The Opinions, Experiences of Others & The Questions They Ask.
 
 
 <!-- LICENSE -->
@@ -127,4 +132,5 @@ Support to This Project.
 [Create & Designed by Programmers on The Planet]
 [Copyright © ER-A-SE Corporation. All Rights Reserved]
 ```
-> ER-A-SE [LICENSE](https://www.github.com/ali80official/ERASE/blob/master/LICENSE)  Will READY Soon
+> ER-A-SE [LICENSE](https://www.github.com/ali80official/ERASE/blob/master/LICENSE) 💜
+##### Will READY Soon
