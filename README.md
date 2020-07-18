@@ -111,7 +111,8 @@
 <!-- CONTRIBUTORS -->
 ## 👉🏼 CONTRIBUTORS :heart:
 ```
-A Big Thank You Goes to All The Wonderful People Who Contribute Ideas, Code, Docs & Support to This Project.
+A Big Thank You Goes to All The Wonderful
+People Who Contribute Ideas, Code, Docs & Support to This Project.
 ```
 
 
