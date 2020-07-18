@@ -16,19 +16,19 @@
 ##  👉 GETTING STARTED ☑
 ### [@ER-A-SE](https://www.er-a-se.com) Exists For Everyone
 #### Let's Get Started Are You READY?
-> to Get Started With ER-A-SE & Use Its Services:
-  * > First of All, You Should See The Tutorials For Using ER-A-SE Program,
+##### to Get Started With ER-A-SE & Use Its Services:
+  > First of All, You Should See The Tutorials For Using ER-A-SE Program,
   in The Next Step, we Should Emphasize That You Should Get A Lot of Information about ER-A-SE
   & Understand What is The Purpose of Its Creation❓
-  * > You Should Also Know That When You Signup in The ER-A-SE Program,
+  > You Should Also Know That When You Signup in The ER-A-SE Program,
   You Will be Asked Questions.
   Because in The Near Future You Will See it Will be The Most Used Program in Your Life
   & You Are Constantly Using it During The Day, so be Careful.
 ##### A Good Future Awaits You, be A Good Person & Wait, You Will See Soon.
-### Finally, we Suggest Two Ways to Get The Program:
-    * > Download [@ER-A-SE](https://www.er-a-se.com) Through The Website
+##### Finally, we Suggest Two Ways to Get The Program:
+    > Download [@ER-A-SE](https://www.er-a-se.com) Through The Website
 ##### or Through The TERMINAL
-    * > Will READY Soon
+    > Will READY Soon
 
 <!-- DOCS -->
 ## 👉🏼 DOCUMENTATION 📘
